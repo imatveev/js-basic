@@ -1,4 +1,5 @@
 # IDE
+.eslintrc.json
 .vscode/
 .idea/
 *.orig
