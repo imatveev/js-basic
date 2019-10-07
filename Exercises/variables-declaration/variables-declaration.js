@@ -9,6 +9,8 @@
 
 // two variables which will be same-names but contain different values:
 
+let message = "Hello!";
+let message = "World!"; //overrides the previous value
 
 
 // Hoisting
