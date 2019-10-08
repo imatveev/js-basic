@@ -5,7 +5,7 @@
 1. Declare a variable on each type using two options: plain creation, creation with constructor.
 2. Use operator typeof on each of them.
 3. Demonstrate object's references.
-3. Demonstrate string's backticks features.
+4. Demonstrate string's backticks features.
 
 # Additional
 
