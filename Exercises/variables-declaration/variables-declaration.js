@@ -1,5 +1,6 @@
-let a = 1;
-var b;
+secondTask = 2;
+const thirdTask = 1;
 {
-  let a = 2;
+  let firstTask = 1;
+  const thirdTask = 2;
 }
