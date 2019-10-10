@@ -10,7 +10,7 @@ octalValue = 0o377;
 hexadecimalValue = 0xff;
 
 // Task #4
-let randomValue = Math.floor((Math.random() * 100) + 1)
+let randomValue = Math.floor((Math.random() * 100) + 1);
 
 // Task #3
 let value = 50;
