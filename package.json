@@ -14,12 +14,8 @@
   "license": "ISC",
   "homepage": "https://github.com/imatveev/js-basic.git#readme",
   "dependencies": {
-    "eslint": "^7.22.0",
-    "eslint-config-airbnb": "^15.1.0",
-    "eslint-plugin-import": "^2.22.1",
-    "pre-commit": "^1.2.2"
-  },
-  "pre-commit": [
-    "lint"
-  ]
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb": "^19.0.2",
+    "eslint-plugin-import": "^2.25.3"
+  }
 }
